@@ -1,5 +1,13 @@
-<h1 align="center" style="font-size: 2.5em; font-weight: bold; color: #4A90E2;">
-  Hi 👋, I'm <span style="text-decoration: underline;">Abhishek Sharma</span> 👨🏻‍💻
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?duration=5000&width=375&lines=Hi+there%2C+I+am+Abhishek+Sharma;I+have+5%2B+Years+of+experience&color=FFFFFF&fontWeight=bold" 
+      alt="Typing SVG" 
+      width="1000" 
+      height="100" 
+      style="display: block; margin: 0 auto;"
+    >
+  </a>
 </h1>
 
 <p align="center">
